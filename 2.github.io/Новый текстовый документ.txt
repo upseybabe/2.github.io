@@ -1,0 +1,38 @@
+  <!DOCTYPEhtml>
+<html lang="ru" >
+    <head> <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+<title>Дневник человека</title>
+</head>
+
+<body>
+    <h1 style="color:mediumseagreen;
+               background-color: darkolivegreen;
+               font-family: sans-serif"> Дневник человека</h1>
+  <i><p class="first">  Родился 4 марта 1992 года</p></i>
+    <a href="https://goo.gl/nyRRvs" target="_blank">
+      <img  src="Hydrangeas.jpg" alt=”А это я” width="480">
+    </a> 
+       
+        <li><strong>Возраст:</strong> Сколько мне лет? </li>
+        <li><strong>А вам? </strong> а?</li>
+   
+    <p id="qwe">я живу и учусь в Санкт-Петербурге. Приехал в этот город из Воронежа. Там мне тоже всё очень нравилось, как и здесь    <i>Переехал в мае 2015 года</i></p>
+    <img src="Tulips.jpg" alt=”Это мой город” width="550">
+ <p> У меня красивый город с большой историей</p>
+   
+    <ol>
+     <li>  Но больше всего я люблю в нём</li>
+      <li>  Набережную</li>
+     <li>  И центарльную площадь</li>
+    </ol>
+   <p>  Люблю там просто гулять и проводить время с семьей, хоть и приезжаю очень редко. </p>
+</body>
+
+
+     <!DOCTYPE html>
+<html lang="ru">
+<head><link rel="stylesheet" href="css/style.css.css">
+    <meta charset="UTF-8">
+    <title>Дневник человека</title>
+</head>
